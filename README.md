@@ -1,20 +1,24 @@
-pil1.1.6
-========
+The Python Imaging Library 1.1.6
+====================================================================
 
 
 PIL versions > 1.1.6 have a bug with transparent images:
+
+```
 'NoneType' object has no attribute 'bands'
+```
+
 This version is the latest without this bug.
-========
+
+
+--------
 
 The Python Imaging Library
 $Id: README 2939 2006-12-03 13:43:51Z fredrik $
 
 Release 1.1.6 (December 3, 2006)
 
-====================================================================
-The Python Imaging Library 1.1.6
-====================================================================
+
 
 Contents
 --------
